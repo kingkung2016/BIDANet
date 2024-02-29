@@ -6,7 +6,7 @@ This is the official implementation of "Bi-directional Interaction and Dense Agg
 ****
 
 ## Saliency maps
-  - The saliency maps can be approached in [Baidu Cloud](https://pan.baidu.com/s/1QxkdwtYWG_ARP7qQoTBA4g) (fetach code is cmin). Note that all testing results are provided not only including those listed in the paper.
+  - The saliency maps can be approached in [Baidu Cloud](https://pan.baidu.com/s/1hiyfxwcX0XOhR3n0Kgv5Kw) (fetach code is bida). Note that all testing results are provided not only including those listed in the paper.
 ****
 
 ## Evaluation tools
